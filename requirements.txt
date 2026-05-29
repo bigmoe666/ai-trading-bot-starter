@@ -1,0 +1,12 @@
+pandas
+numpy
+yfinance
+ccxt
+pandas_ta
+scikit-learn
+torch
+stable-baselines3
+gymnasium
+backtesting
+plotly
+tqdm
