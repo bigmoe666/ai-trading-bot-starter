@@ -10,3 +10,8 @@ gymnasium
 backtesting
 plotly
 tqdm
+solana
+solders
+requests
+asyncio
+websockets
