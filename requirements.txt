@@ -15,3 +15,10 @@ solders
 requests
 asyncio
 websockets
+solana
+solders
+requests
+asyncio
+websockets
+python-dotenv
+python-telegram-bot
